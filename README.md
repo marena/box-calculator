@@ -1,4 +1,4 @@
-**Box joint jig calculator**
+**Box joint jig calculator**  
 Calculator for Matthias Wandel's screw advance box joint jig.
 
 **Todo:**
