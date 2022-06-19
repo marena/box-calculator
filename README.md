@@ -2,8 +2,11 @@
 Calculator for Matthias Wandel's screw advance box joint jig.
 
 **Todo:**
-- Add some description here
-- Export import settings
+- Redirect to settings on start up
+- 
+- Import Export settings
 - Save result
 - Forms validations
 - Custom joints
+- Add Internationalization
+- Add some description here
